@@ -1,7 +1,0 @@
-1. mysql utf-8 설정 (my.ini)
-2. 데이터베이스와 테이블 생성 (query.sql)
-3. DB 연결 본인과 일치하는지 확인 (DB_connection.php)
-4. 이미지 파일 저장 경로 확인 (request_action.php)
-5. 현재 페이지 위치 확인을 위한 substr 구문 확인 (header.php / 프로젝트명 안바꿨으면 넘어가기)
-6. 폰트 다운 (cafe24ssurround, notosanskr)
-7. localhost/Project/insert_univ_menu.php 실행 (이전 학식 데이터 집어넣는 페이지 / 30 ~ 35초 정도 소요)
