@@ -1,0 +1,17 @@
+* {
+    font-family: 'Noto Sans KR';
+}
+.headerWrap {
+    margin: auto;
+    width: 1200px;
+    height: 150px;
+    background-color: #fff;
+    border-bottom: 4px solid #f3f3f3;
+    box-sizing: border-box;
+}
+.header_img {
+    width: 100%;
+}
+.headerWrap map area {
+    cursor: pointer;
+}

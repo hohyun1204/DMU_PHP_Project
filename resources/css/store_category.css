@@ -1,0 +1,27 @@
+.store_category {
+    margin: auto;
+    padding-top: 60px;
+    width: 1200px;
+    height: 600px;
+}
+.store_category_header {
+    margin: auto;
+    width: 100%;
+    height: 71px;
+}
+.store_category_header img {
+    padding-top: 5px;
+}
+.store_category_section {
+    margin: auto;
+    width: 100%;
+    height: 450px;
+    padding-top: 30px;
+    border-top: 1px solid #aaaaaa;
+}
+.store_category_section img {
+    width: 100%;
+}
+.store_category_section map area {
+    cursor: pointer;
+}

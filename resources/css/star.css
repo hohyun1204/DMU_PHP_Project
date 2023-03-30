@@ -1,0 +1,23 @@
+.star {
+    position: relative;
+    font-size: 1.8em;
+    color: white;
+    height: 100%;
+    text-shadow: -1px 0 #00519C, 0 1px #00519C, 1px 0 #00519C, 0 -1px #00519C;
+}
+.star input {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+.star span {
+    width: 20%;
+    position: absolute;
+    left: 0;
+    color: #00519C;
+    overflow: hidden;
+    pointer-events: none;
+}
